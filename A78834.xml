@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties last message to the Parliament, with His desires for the Bishop of Armagh, Bishop of Exeter, Bishop of Rochester, Bishop of Worcester, and other doctors to come to Him. And His Majesites declaration concerning the Marquis of Ormonds negotiation in Ireland. Also the votes of both Houses of Parliament, in answer to His Majesties message. With a letter to the commissioners in the Isle of Wight which passed both Houses on Saturday last being the 4th of November 1648.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78834</idno>
+            <idno type="STC">Wing C2372</idno>
+            <idno type="STC">Thomason E470_11</idno>
+            <idno type="STC">ESTC R205628</idno>
+            <idno type="EEBO-CITATION">99864949</idno>
+            <idno type="PROQUEST">99864949</idno>
+            <idno type="VID">117182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117182)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties last message to the Parliament, with His desires for the Bishop of Armagh, Bishop of Exeter, Bishop of Rochester, Bishop of Worcester, and other doctors to come to Him. And His Majesites declaration concerning the Marquis of Ormonds negotiation in Ireland. Also the votes of both Houses of Parliament, in answer to His Majesties message. With a letter to the commissioners in the Isle of Wight which passed both Houses on Saturday last being the 4th of November 1648.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:117182:1" rendition="simple:additions"/>
+                  <p>His Maieſties LAST MESSAGE TO THE PARLIAMENT, WITH His deſires for the Biſhop of <hi>Armagh,</hi> Biſhop of <hi>Exeter,</hi> Biſhop of <hi>Rocheſter,</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Worceſter,</hi> And other Doctors to come to HIM.</p>
+                  <p>AND HIS <hi>Majeſties Declaration concerning the Marquis of</hi> Ormonds <hi>Negotiation in Ireland.</hi>
+                  </p>
+                  <p>ALSO The Votes of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, in Anſwer to His Majeſties <hi>Meſſage.</hi>
+                  </p>
+                  <p>With a Letter to the Commiſsioners in the Iſle of <hi>Wight,</hi> which paſſed both Houſes on Saturday laſt being the 4th of <hi>November</hi> 1648.</p>
+                  <p>Printed for <hi>R. Smithurſt,</hi> neer Pye-corner 1648,</p>
+               </div>
+            </front>
+            <body>
+               <div type="document">
+                  <pb facs="tcp:117182:2"/>
+                  <pb n="1" facs="tcp:117182:2"/>
+                  <head>
+                     <figure>
+                        <q>HONI SOIT QVI MAL Y PENSE</q>
+                        <figDesc>royal blazon or coat of arms</figDesc>
+                     </figure>
+                  </head>
+                  <head>HIS Ma<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſties laſt Meſſage to the Parlia<g ref="char:EOLhyphen"/>ment, with his deſires for the Biſhop of <hi>Armagh,</hi> Biſhop of <hi>Exceter,</hi> Biſhop of <hi>Rocheſter,</hi> Biſhop of <hi>Worceſter,</hi> &amp; other Doctors to come to Him.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">A</seg>Ccording to the votes and inſtru<g ref="char:EOLhyphen"/>ctions of both Houſes, his Maje<g ref="char:EOLhyphen"/>ſty was acquainted that the con<g ref="char:EOLhyphen"/>ceſsion which he delivered in, was not ſatisfactory in the buſineſſe of the <hi>Church,</hi> and ſo the other Votes not ſatisfactory, ſent by Sir <hi>Peter Killeygrew,</hi> were delivered to his Majeſty. And alſo that concerning the bu<g ref="char:EOLhyphen"/>ſineſſe
+<pb n="2" facs="tcp:117182:3"/>of <hi>Ireland,</hi> with a requeſt in behalfe of both houſes of Parliament to deſire his Ma<g ref="char:EOLhyphen"/>jeſty, that whereas there was a Letter inter<g ref="char:EOLhyphen"/>cepted from the Marqueſſe <hi>Ormond,</hi> of ſuch dangerous conſequence, by complying with Iriſh Rebels, under pretence of Authority; Which being againſt the Parliament, could not be in any o<g ref="char:EOLhyphen"/>ther, except his Majeſty ſhould give any ſuch com<g ref="char:EOLhyphen"/>miſſion, and therefore it was deſired, that his Majeſty to clear himſelf of ſuch a compliance with thoſe bloo<g ref="char:EOLhyphen"/>dy Rebels, would declare againſt the ſame: And if the Marquis of <hi>Ormond</hi> had any Authority from him to agitate there that ſeeing he did comply with thoſe Rebels againſt the Proteſtants, that his Majeſty would be pleaſed to recall his Commiſſion, or declare againſt that action of joyning with the Iriſh Rebels, and <hi>Ormonds</hi> compliance with the Romiſh Catholick councell at <hi>Kilkenny.</hi>
+                  </p>
+                  <p>To theſe papers and deſires, his Majeſty delivered in ſeverall papers, (Viz.)</p>
+                  <p>That in regard that the two houſes of Parliament were not ſatisfied in his offers concerning the <hi>Church.</hi> That he is not ſatisfied in his conſcience to doe more then what hee hath offered therein. Yet to the end that his Majeſty may be the better ſatisfied herein, hee deſireth that 4 Biſhops and 2 Doctors, may be admit<g ref="char:EOLhyphen"/>ed to him, to confer with him about the ſame, and then he will return as ſpeedy an Anſwer as may be.</p>
+                  <p>And his Majeſty doth deſire that the time of Treaty may be lengthened, that ſo he may proceed with the Commiſsioners to a finall concluſion, if it may be.</p>
+                  <p>
+                     <pb n="3" facs="tcp:117182:3"/>
+As to the buſineſſe of <hi>Ireland,</hi> concerning the Mar<g ref="char:EOLhyphen"/>quis of <hi>Ormonds</hi> Negotiation there with the Rebels, His Majeſty returned this Anſwer: That hee thinks it not fit to have new Propoſitions put upon him, ſuch as that, which was none of thoſe formerly preſented. That hee hath given in his Anſwer to all and every one of the old Propoſitions, which they preſented to him from the Houſes, and hath no anſwer to any of his, which he hath made, and doth therefore deſire that ſuch things may not be put upon him.</p>
+                  <p>The Commiſſioners anſwered his Majeſty, that they could not looke upon that as a poſitive Anſwer. That the buſineſſe was a buſineſſe of great conſequence, <hi>Or<g ref="char:EOLhyphen"/>mond</hi> having negotiated with the Iriſh Rebels, and concluded an agreement, to the great danger of this Kingdome, and the Proteſtant Religion, and that their deſire was, that his Majeſty would be pleaſed to De<g ref="char:EOLhyphen"/>clare againſt thoſe barbarous and bloody Iriſh Re<g ref="char:EOLhyphen"/>bells, and to this preſſed his Majeſty for a full and fi<g ref="char:EOLhyphen"/>nall anſwer.</p>
+                  <p>To this his Majeſty again replyed by another Pa<g ref="char:EOLhyphen"/>per, that he had not ſince the Treaty beganne, given out any Commiſſion, nor acted in any ſuch thing, nor paſſed any thing in that nature.</p>
+                  <p>That the whole buſineſſe of Ireland is in<g ref="char:EOLhyphen"/>cluded in the Treaty, in every part of it, and by his Majeſties offers, the power of that king<g ref="char:EOLunhyphen"/>dome is made over to the Parliament, ſo that if all things were concluded by the Treaty, then that would fall in amongſt the reſt; But for doing any thing in the interim, his Maje<g ref="char:EOLhyphen"/>ſty
+<pb n="4" facs="tcp:117182:4"/>did not give his conſent, ſaying, that he deſires the Treaty may conclude all.</p>
+                  <p>It is deſired that the Commiſſioners from the Parliament or ſome of them may have leave to come to <hi>London,</hi> about ſome buſi<g ref="char:EOLhyphen"/>neſſe that doth much concerne them: as alſo to give an account to the Houſes <hi>vire voce,</hi> and not by Letter, that the Parliament may be rightly informed of all things.</p>
+                  <closer>
+                     <dateline>Newport <date>2 Novemb. 1648.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="list_of_bishops_and_doctors">
+                  <head>The names of the Biſhops, and Doctors deſired by His Majeſty to be ſent to Him.</head>
+                  <opener>
+                     <signed>CHARLES. R.</signed>
+                  </opener>
+                  <list>
+                     <item>The Biſhop of <hi>Armath,</hi>
+                     </item>
+                     <item>The Biſhop of <hi>Exce<g ref="char:EOLhyphen"/>ter,</hi>
+                     </item>
+                     <item>The Biſhop of <hi>Rocheſter,</hi>
+                     </item>
+                     <item>The Biſhop of <hi>Worceſter,</hi>
+                     </item>
+                     <item>Doctor <hi>Fearne,</hi>
+                     </item>
+                     <item>Doctor <hi>Mor<g ref="char:EOLhyphen"/>ley.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="document">
+                  <opener>
+                     <dateline>
+                        <date>Die Sabbati 4 Novemb. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p n="1">1 <hi>Reſolved upon the Queſtion, by the Lords and Commons in Parliament Aſſembled.</hi>
+                  </p>
+                  <p>THat 14 dayes be added to the Treaty be<g ref="char:EOLhyphen"/>tween His Majeſty and the Commiſſio<g ref="char:EOLhyphen"/>ners
+<pb n="5" facs="tcp:117182:4"/>of both houſes of Parliament, for a ſafe and well-grounded peace to be proceeded in according to their former Inſtructions at <hi>Newport</hi> in the Iſle of <hi>Wight.</hi>
+                  </p>
+                  <p n="2">2 <hi>Reſolved upon the Queſtion by the Lords and Commons in Parliament Aſſembled,</hi> That leave bee given to Doctor <hi>Vſher,</hi> Doctor <hi>Brumrigge,</hi> Doctor <hi>Prideux,</hi> Doctor <hi>War<g ref="char:EOLhyphen"/>ner,</hi> Doctor <hi>Fearne,</hi> And Doctor <hi>Morley</hi> to goe to His Majeſty,</p>
+                  <p n="3">3 <hi>Reſolved upon the Queſtion by the Lords and Commons in Parliament Aſſembled,</hi> That His Majeſties paper concerning the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Ormond</hi> in <hi>Ireland</hi> is not ſatisfactory, and that the Commiſſioners be deſired to preſſe His Majeſty for a full and finall anſwer therein.</p>
+                  <p n="4">4 <hi>Reſolved upon the Queſtion, by the Lords and Commons in Parliament Aſſembled,</hi> That all the Votes of both Houſes in Order to the Treaty, except that of Delinquents be ſent to the Commiſsioners forthwith.</p>
+                  <p n="5">
+                     <pb n="6" facs="tcp:117182:5"/>
+5 <hi>Reſolved upon the Queſtion by the Lords and Commons in Parliament Aſſembled,</hi> That a Letter be ſent to the Commiſsioners with the ſaid Votes incloſed, to be communicated to His Majeſty, and that they be deſired, to preſſe His Majeſty to a full and finall anſwer.</p>
+                  <p n="6">6 <hi>Reſolved upon the Queſtion by the Lords and Commons in Parliament Aſſembled,</hi> That leave be given to the Commiſſioners at <hi>New<g ref="char:EOLhyphen"/>port</hi> for ſuch of them to returne as they ſhall agree upon, provided they leave ſix behind, whereof 2 Lords and 4 Commoners, and of them, three to be of the Corum, whereof one Lord, and two Commoners.</p>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:117182:5" rendition="simple:additions"/>
+                  <p>A DECLARATION Of His Excellency Robert E. of Warwick Lord High Admirall of <hi>ENGLAND,</hi> CONCERNING</p>
+                  <p>The uniting of the two Navies, and reſtoring of the <hi>Kings Majeſty,</hi> the Prince of <hi>Wales,</hi> the Duke of <hi>York</hi> and the reſt of the Royall Iſſue, to their juſt Rights and Priviledges.</p>
+                  <p>And His Reſolution touching all thoſe who endeavour to obſtruct the <hi>Treaty,</hi> and hinder the ſetting of Truth, and a happy Peace, in this unſetled <hi>Church</hi> and <hi>Kingdome.</hi>
+                  </p>
+                  <p>With His Majeſties laſt and finall <hi>Propoſitions</hi> to all Loyall and reaſonable Subjects. Subſcribed <hi>CHARLES R.</hi>
+                  </p>
+                  <p>Printed for ſatisfaction of all thoſe who deſire <hi>Peace,</hi> 1648</p>
+               </div>
+            </front>
+            <body>
+               <div type="document">
+                  <pb facs="tcp:117182:6"/>
+                  <pb n="1" facs="tcp:117182:6"/>
+                  <head>A DECLARATION OF ROBERT EARL of WARWICK, Concerning the Kings Majeſty, and the Prince of <hi>Wales,</hi> and his reſolution touching all thoſe who are oppoſite to <hi>Peace.</hi>
+                  </head>
+                  <p>VVHereas, there are divers perſons with<g ref="char:EOLhyphen"/>in the City of <hi>London,</hi> and parts ad<g ref="char:EOLhyphen"/>jacent, who endeavour to inflame the <hi>Kingdom</hi> in a moſt inhumane, bloudy, and inteſtine War, and to involve them in a Labyrinth of trouble,
+<pb n="2" facs="tcp:117182:7"/>and Calamities, by their preſent commotions, actings, and contrivances, in making the King and Parliament odious to the People, and ſtirring up their hearts a<g ref="char:EOLhyphen"/>gainſt them, for the obſtructing and blaſting the hope<g ref="char:EOLhyphen"/>full Iſſue and Bloſſomes of this bleſſed <hi>Treaty.</hi> There<g ref="char:EOLhyphen"/>fore, for preventing thereof, and propogating the pre<g ref="char:EOLhyphen"/>ſent Work in hand, his Excellency <hi>Robert</hi> Earl of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> Lord High Admirall of his Majeſties narrow Seas, hath declared his Reſolution in reference to the ſame, proteſting,</p>
+                  <p>
+                     <hi>That He will uſe his utmoſt endeavours towards the ſetling of truth, and a happy peace in this unſetled Church and Kingdom and that He will be instrumentall for the bringing of his Majeſty to London, and ſetling of His Maieſty, the Prince of</hi> VVales, <hi>the Duke of</hi> York, <hi>and the reſt of His Royall Iſsue in their juſt Rights and privi<g ref="char:EOLhyphen"/>ledges, ſo ſoon as His Majesty ſhall be pleaſed to ſatisfie and confirme the Deſires of his two Houſes of Parliament ſo much tending to the good and preſervation both of Re<g ref="char:EOLhyphen"/>ligion, Crown and Kingdoms.</hi>
+                  </p>
+                  <p>Some Overtures have been lately <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ade betweene his Highneſſe the Prince of <hi>Wales,</hi> and his Lordſhip, in relation to a conjunction and uniting of both Navies; but his Lordſhip hath utterly deteſted againſt the ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me, ſlighting the Princes invitation and repreſenting a Letter unto his Highneſſe, That he takes it as the greateſt diſhonour that can be incident to man, for any Perſonage whatſoever to betray the truſt repoſed in him, and that He is reſolved to ſacrifice his life in the Cauſe and Engagement which he hath undertaken, not doubting but that the omnipotent God of Heaven (to
+<pb n="3" facs="tcp:117182:7"/>whom the Honour of his Engagement doth belong) will cauſe the Wnids and Seas to fight for them, whoſe Truth is their Banner, Shield and Bucker; and therefore dehorts his Highneſſe to perſiſt no longer in the way he is in, but forthwith to come in, and unite himſelf with the Parliament, that ſo his perſon may be preſerved from all violence and injury and a reſto<g ref="char:EOLhyphen"/>ration made of all due Rights and priviledges, and that he may render himſelf inſtrumentall for the compo<g ref="char:EOLhyphen"/>ſing of all differences, and eſtabliſhing of a firme and laſting Peace throughout His Fathers Realmes and Dominions.</p>
+                  <p>This Letter is ſaid to be ſent from aboard the St. <hi>George,</hi> to the Prince at <hi>Helver-Sluce,</hi> and ſigned <hi>WARWICK.</hi>
+                  </p>
+                  <p>Letters further from the Navy ſay, That the Prince is deſirous to ſpin out ſome longer time at <hi>Gorea</hi> be<g ref="char:EOLhyphen"/>fore he puts to Sea, in expectation of what the Treaty will produce, and that if it takes not effect, he is reſol<g ref="char:EOLhyphen"/>ved for <hi>Ireland,</hi> to joyn with the Marquis of <hi>Ormond,</hi> and the Lord <hi>Inchiqueen,</hi> and to land an Army in the Weſt of <hi>England</hi> at the Spring, for the re-inveſting of the King, and reſtoring of Him, to his juſt Rights, Po<g ref="char:EOLhyphen"/>wer and Authority</p>
+                  <p>The ſaid Letters do further intimate, That the Lord high Admirall hath received a Letter from his Maje<g ref="char:EOLhyphen"/>ſty, purporting things of great concernment, and how farre he hath condeſcended to the deſires of his two Houſe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> deſiring him to be inſtrumentall for the ſet<g ref="char:EOLhyphen"/>ling of a firm and laſting peace.</p>
+               </div>
+               <div type="document">
+                  <pb n="4" facs="tcp:117182:8"/>
+                  <head>His Majesties finall Anſwer touching Epiſcopacy.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>ON <hi>Wedneſday</hi> morning laſt the Kings Majeſty <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd the Commiſſioners met in the Treaty Chamber, and taking their places at the Councell Table according to the uſuall manner, the Earl of <hi>Northumberland</hi> roſe up, and made a ſhort Speech, <hi>Humbly deſiring his Majesty to remove his a<g ref="char:EOLhyphen"/>verſneſse from the ſetling of Religion, and to hearken unto the advice of His great and loyall Councell, ſo much tending to the honour of His Majeſty and Poſterity, and the ſetling of a true and laſting peace throughout all His Realms and Dominions.</hi>
+                  </p>
+                  <p>Which done, his Lordſhip preſented a Copy of the Parliaments laſt Votes brought by Sir <hi>Peter Killegrey,</hi> on <hi>Tueſday</hi> night laſt, in anſwer to his Majeſties En<g ref="char:EOLhyphen"/>largement of Conceſſions touching Epiſcopacy. His Majeſty (after reading the ſame) roſe up out of the Chair of State, and made a very learned and excellent Speech to the Commiſſioners.</p>
+                  <p>His Majeſty having thus graciouſly declared Him<g ref="char:EOLhyphen"/>ſelf, the Commiſſioners began to proceed according to their Inſtructions, and deſired a more fuller and ſa<g ref="char:EOLhyphen"/>tisfactory Anſwer, touching the utter extirpation of Epiſcopacy, which took up ſome time of debate in <hi>pro</hi> and <hi>con,</hi> and the day being far ſpent, they referred the further reſults thereof to the happy ſucceſſion of the morrow following.</p>
+                  <p>And (accordingly) yeſterday morning they met a<g ref="char:EOLhyphen"/>gain, where the ſtreames of joy iſſued from the cur<g ref="char:EOLhyphen"/>rent of the hearts both of Prince and People, who
+<pb n="5" facs="tcp:117182:8"/>came to a finall cloſe upon all the Propoſals, His Ma<g ref="char:EOLhyphen"/>jeſty promiſing upon his Royall Word to paſſe thoſe Bills into Acts which He had already aſſented to. And being further preſſed by the Commiſſioners to ſigne to the Bill for the eſtabliſhing of Epiſcopacy, his Ma<g ref="char:EOLhyphen"/>jeſty deſired reſpite of time till Saturday morning, which was accordingly granted.</p>
+                  <p>And this morning (about the accuſtomed houre) his Majeſty gave the Commiſſioners a viſit, and ſitting down in the Chair of State, preſented a Paper to them, which is ſaid to be very ſatisfactory, containing His Royall Aſſent to the Propoſition of the Church, and likewiſe to all the reſt of the Bills and Propoſals. This joyfull tydings were ſoon eccho'd throughout the I<g ref="char:EOLhyphen"/>ſland; inſomuch that the Bels rang tryumphantly in all the reſpective Pariſhes. But by reaſon of the ſud<g ref="char:EOLhyphen"/>den diſpatch of the Poſt, I am forced to conclude, and remain</p>
+                  <closer>
+                     <signed>Your Honours devoted ſervant, <hi>J. RISHTON.</hi>
+                     </signed>
+                     <dateline>Newport <date>5 Octob. 1648.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="postscript">
+                  <head>Postſcript.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce my laſt, Here hath hapned ſeverall Overtures between his Majeſty and the Parliaments Commiſ<g ref="char:EOLhyphen"/>ſioners; they have had much debate upon the Propo<g ref="char:EOLhyphen"/>ſitions, eſpecially that concerning the Church, which the King ſtuck much at; but the dark Cloud being ex<g ref="char:EOLhyphen"/>pelled, and the ſplendor of the Goſpell ſhining moſt gloriouſly in the eyes of his Majeſty, He was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to declare his Royall Aſſent to all the Propoſitions, and to grant His Royall Word to paſſe all things deſired by his two Houſes, that may be agreeable and conſonant to the fundamentall Lawes
+<pb n="6" facs="tcp:117182:9"/>of this Kingdom. And as to the buſines of the Church (which is all they ſtick at) the King hath promiſed to give his concurrence therein, rather then his People ſhall ſuffer for his diſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſſenting. And 14 dayes more being added to the <hi>Treaty,</hi> it is hoped a fair concluſion will attend the happy beginning. His Majeſty hath de<g ref="char:EOLhyphen"/>livered another Paper to the Commiſſioners, which I have here inſerted, <hi>viz.</hi>
+                  </p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="document">
+                              <opener>
+                                 <signed>CHARLES, R.</signed>
+                              </opener>
+                              <p>HIs Majeſty reſteth very much unſatisfied. That you have now again wholly declined the anſwe<g ref="char:EOLhyphen"/>ring of thoſe three queſtions ſo clearly propoſed by him, which your ſelves alſo confeſſe to be of grea im<g ref="char:EOLhyphen"/>portance, upon this only pretence, <hi>That the whole volumn of Eccleſiasticall policy is contained in them:</hi> Whereas his Majeſty did neither expect nor require from you any large or polemicall Diſcourſe concerning thoſe Queſtions conceiving that you were in ſome ſort ob<g ref="char:EOLhyphen"/>liged to have declared what your judgment was there<g ref="char:EOLhyphen"/>in, with the grounds thereof. For certainly untill one of theſe three things can be clearly evidenced unto his Maj. 1. Either that there is no certain form of Church Government at all preſcribed in the Word. 2. That the Civill power may change the fame as they ſee cauſe. 3 Or if it be unchangable, that it was not Epiſcopall, but ſome other, his Maj. thinks himſelf excuſable in the judgment of all reaſonable men, if he cannot be indu<g ref="char:EOLhyphen"/>ced to give his conſent to the utter abolition of that Government of the Church which he found here ſet<g ref="char:EOLhyphen"/>led to his hands, which hath continued all over the Chriſtian world, from the times of the Apoſtles untill this laſt Age.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
